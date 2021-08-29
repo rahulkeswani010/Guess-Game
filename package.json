@@ -1,0 +1,23 @@
+{
+  "name": "Guess-Game",
+  "version": "1.0.0",
+  "description": "To understand the basics of DOM I have created a simple project called guess game. Users will provide a number as input and our game will verify whether the number entered matches the secret number generated at our end. According to the scenario we will provide respective hints and scores.",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulkeswani010/Guess-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulkeswani010/Guess-Game/issues"
+  },
+  "homepage": "https://rahulkeswani010.github.io/Guess-Game",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
